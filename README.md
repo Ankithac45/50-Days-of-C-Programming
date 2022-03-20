@@ -10,6 +10,9 @@
 * Compiler
 * Interpreter
 * Assembler
-## DAY # [19/03/2022] More About C 
+## DAY 3 [19/03/2022] More About C 
 * Use of C language
 * Feature of C language
+## DAY 4 [20/03/2022] Structure of C Program
+* How to write a C program
+* bBasic structure of C Program
