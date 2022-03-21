@@ -16,3 +16,7 @@
 ## DAY 4 [20/03/2022] Structure of C Program
 * How to write a C program
 * bBasic structure of C Program
+## DAY 5 [21/03/2022] Execution of a C Program
+* Translation
+* Linking
+* Loading
