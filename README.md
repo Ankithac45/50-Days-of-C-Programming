@@ -20,3 +20,6 @@
 * Translation
 * Linking
 * Loading
+## DAY 6 [25/03/2022] Constants in C
+* Types of Constants
+* Rules to declare constants
