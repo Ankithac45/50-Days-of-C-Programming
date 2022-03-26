@@ -23,3 +23,6 @@
 ## DAY 6 [25/03/2022] Constants in C
 * Types of Constants
 * Rules to declare constants
+## DAY 7 [26/03/2022] Variables in C
+* Types of variables
+* How to define them and when
