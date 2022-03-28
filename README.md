@@ -26,3 +26,5 @@
 ## DAY 7 [26/03/2022] Variables in C
 * Types of variables
 * How to define them and when
+## DAY 8 [27/03/2022] Keywords and Identifiers
+* What are Keywords and Identifiers?
